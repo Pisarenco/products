@@ -1,0 +1,81 @@
+[
+  {
+    "id":1,
+    "title": "Acer Aspire A315-32",
+    "description":   "Dimensiune ecran (inch): 15.6}
+    Frecventa procesor (Ghz): 1.1 - 2.7
+    Producator procesor: Intel Pentium
+    Capacitate memorie: 4Gb
+    Tip unitate stocare: HDD
+    Capacitate stocare (GB): 1000
+    Tip placa video: integrata
+    Procesor placa video: Intel HD Graphics 605
+    Sistem de operare: Linux",
+    "reting":"4.7",
+    "price": "6720 lei",
+    "credit":"848 lei/lună",
+    "image": "https://neocomputer.md/image/cache/data/Notebook/Acer/Acer%20Aspire%20A315-31%20Black_1-900x900.jpg"
+  },
+
+  {
+    "id":1,
+    "title": "Acer PREDATOR HELIOS PH517",
+    "description":   "
+    Dimensiune ecran (inch): 17.3
+    Frecventa procesor (Ghz): 2.2 - 4.1
+    Producator procesor: Intel Core i7
+    Capacitate memorie: 16Gb
+    Tip unitate stocare: SSD
+    Capacitate stocare (GB): 256
+    Tip placa video: dedicata
+    Procesor placa video: GeForce GTX1070 8Gb
+    Sistem de operare: Linux
+",
+    "reting":"5",
+    "price": "41 329 lei",
+    "credit":"848 lei/lună",
+    "image": "https://neocomputer.md/image/cache/data/Notebook/Acer/Acer%20PREDATOR%20HELIOS%20PH517%20Black_1-900x900.jpg"
+  },
+
+
+  {
+    "id":1,
+    "title": "Asus GM501GS",
+    "description":   "
+    Dimensiune ecran (inch): 15.6
+    Frecventa procesor (Ghz): 2.2 - 4.1
+    Producator procesor: Intel Core i7
+    Capacitate memorie: 16Gb
+    Tip unitate stocare: HDD+M.2 SSD
+    Capacitate stocare (GB): 1000 + 256
+    Tip placa video: dedicata
+    Procesor placa video: GeForce GTX1070 8Gb
+    Sistem de operare: Win 10 Pro
+",
+    "reting":"4.9",
+    "price": "48 682 lei",
+    "credit":"848 lei/lună",
+    "image": "https://neocomputer.md/image/cache/data/Notebook/Asus/Asus%20GM501GS%20Black_1-900x900.jpg"
+  },
+
+
+  {
+    "id":1,
+    "title": "Dell Vostro 14 5000 ",
+    "description":   "Dimensiune ecran (inch): 14.0
+    Frecventa procesor (Ghz): 1.6 - 3.4
+    Producator procesor: Intel Core i5
+    Capacitate memorie: 8Gb
+    Tip unitate stocare: SSD
+    Capacitate stocare (GB): 256
+    Tip placa video: integrata
+    Procesor placa video: Intel HD Graphics 620
+    Sistem de operare: Win 10 Pro",
+    "reting":"5",
+    "price": "19 076 lei",
+    "credit":"848 lei/lună",
+    "image": "https://neocomputer.md/image/cache/data/Notebook/Dell/Dell%20Vostro%205471%20Silver_1-900x900.jpg"
+  },
+
+
+]
